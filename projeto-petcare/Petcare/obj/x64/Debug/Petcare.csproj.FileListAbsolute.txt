@@ -1,0 +1,16 @@
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\bin\x64\Debug\Petcare.exe.config
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\bin\x64\Debug\Petcare.exe
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\bin\x64\Debug\Petcare.pdb
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.csproj.AssemblyReference.cache
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmanimal.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmCliente.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmconsulta.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmLogin.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmMenuPrincipal.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmProduto.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.frmveterinario.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.Properties.Resources.resources
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.csproj.GenerateResource.cache
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.csproj.CoreCompileInputs.cache
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.exe
+C:\Users\Auri\Documents\Visual Studio 2022\Petcare\Petcare\obj\x64\Debug\Petcare.pdb
